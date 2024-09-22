@@ -12,7 +12,7 @@ I love programming!! Also, I love reverse engineering, computer science and **ba
 ![React](https://img.shields.io/badge/React-2e2d36?style=for-the-badge&logo=react&logoColor=#354361)
 ![Vim](https://img.shields.io/badge/Vim-2e2d36?style=for-the-badge&logo=vim&logoColor=darkgreen)
 ![MongoDB](https://img.shields.io/badge/mongodb-2e2d36?style=for-the-badge&logo=mongodb&logoColor=darkgreen)
-![MySQL](https://img.shields.io/badge/mongodb-305082?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-305082?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-305082?style=for-the-badge&logo=docker&logoColor=white)
 <br>
 # Languages
