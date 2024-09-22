@@ -11,6 +11,9 @@ I love programming!! Also, I love reverse engineering, computer science and **ba
 ![Ionic](https://img.shields.io/badge/Ionic-2e2d36?style=for-the-badge&logo=ionic&logoColor=white)
 ![React](https://img.shields.io/badge/React-2e2d36?style=for-the-badge&logo=react&logoColor=#354361)
 ![Vim](https://img.shields.io/badge/Vim-2e2d36?style=for-the-badge&logo=vim&logoColor=darkgreen)
+![MongoDB](https://img.shields.io/badge/mongodb-2e2d36?style=for-the-badge&logo=mongodb&logoColor=darkgreen)
+![MySQL](https://img.shields.io/badge/mongodb-305082?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-305082?style=for-the-badge&logo=docker&logoColor=white)
 <br>
 # Languages
 ![Rust](https://img.shields.io/badge/Rust-2e2d36?style=for-the-badge&logo=rust&logoColor=white)
@@ -18,9 +21,9 @@ I love programming!! Also, I love reverse engineering, computer science and **ba
 ![C++](https://img.shields.io/badge/Cpp-5c2657?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-417548?style=for-the-badge&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-365ccf?style=for-the-badge&logo=typescript&logoColor=white)
-![TS](https://img.shields.io/badge/TypeScript-365ccf?style=for-the-badge&logo=typescript&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-968e4b?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-6e4c2d?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-63232f?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-968e4b?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-26265c?style=for-the-badge&logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-543c96?style=for-the-badge&logo=php&logoColor=white)
